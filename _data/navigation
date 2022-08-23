@@ -1,0 +1,6 @@
+- title: "Home"
+  url: "/"
+- title: "About Me"
+  url: "/about.html"
+- title: "WordPress"
+  url: "/wordpress.html"
