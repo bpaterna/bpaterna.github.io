@@ -1,0 +1,23 @@
+
+/* modificaciones bpaterna */
+
+.separa {
+ /* background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  float: left;
+  width: 100%;
+   background: #dd356e; height:3px; */
+  border-bottom:#dd356e 1px solid;
+  margin-bottom:20px;
+ }
+
+.num {float:left; display: block;  width:60px;  height:60px;  border-radius:30px; background: #dd356e;  line-height: 60px; font-size:40px;  color: #fff; text-align: center;  }
+
+
+#bread {border-bottom:#dd356e 1px solid; margin-bottom:40px; padding-left:20px;}
+
+.codigo {display:block;  margin-top:20px; margin-bottom:20px; padding:15px; border:#ccc 1px solid;
+font-family:"consolas";
+font-size:16px;}
