@@ -1,6 +1,20 @@
 
 /* modificaciones bpaterna */
 
+#fh5co-features { background: #FFF; }
+
+#fh5co-slider, #fh5co-about, #fh5co-wireframe, #fh5co-started, #fh5co-portfolio, #fh5co-blog, #fh5co-content-section, #fh5co-contact, #fh5co-footer {
+  padding: 1em 0;
+  clear: both;
+}
+
+#fh5co-features .services-padding {
+  padding: 1em 0;
+}
+
+
+/* nuevos bpaterna */
+
 .separa {
  /* background-size: cover;
   background-position: center center;
@@ -20,5 +34,3 @@
 
 .codigo {display:block; text-align:left;  margin-top:20px; margin-bottom:20px; padding:15px; border:#ccc 1px solid;
 font-family:"Consolas"; font-size:14px;}
-
-
