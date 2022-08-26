@@ -59,7 +59,7 @@ a:hover, a:active, a:focus {
 }
 
 p {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 h1, h2, h3, h4, h5, h6, figure {
@@ -391,10 +391,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #fff;
+  background: #FEE856;
 }
 #fh5co-features .services-padding {
-  padding: 3em 0;
+  padding: 7em 0;
 }
 #fh5co-features .feature-left {
   margin-bottom: 40px;
@@ -451,10 +451,9 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-features .feature-left p:last-child {
   margin-bottom: 0;
 }
-/*
 #fh5co-features .feature-left p a {
   color: #000 !important;
-}*/
+}
 #fh5co-features .ipad-bg {
   background-size: cover;
   background-position: top center;
@@ -619,7 +618,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-content-section,
 #fh5co-contact,
 #fh5co-footer {
-  padding: 3em 0;
+  padding: 7em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -1470,31 +1469,18 @@ input[type="text"] {
   margin: 0 !important;
 }
 
+.fh5co-loader {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: url(../images/loader.gif) center no-repeat #fff;
+}
 
-
-
+.js .animate-box {
+  opacity: 0;
+}
 
 /*# sourceMappingURL=style.css.map */
-
-/* modificaciones bpaterna */
-
-.separa {
- /* background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  position: relative;
-  float: left;
-  width: 100%;
-   background: #dd356e; height:3px; */
-  border-bottom:#dd356e 1px solid;
-  margin-bottom:20px;
- }
-
-.num {float:left; display: block;  width:60px;  height:60px;  border-radius:30px; background: #dd356e;  line-height: 60px; font-size:40px;  color: #fff; text-align: center;  }
-
-
-#bread {border-bottom:#dd356e 1px solid; margin-bottom:40px; }
-
-.codigo {display:block;  margin-top:20px; margin-bottom:20px; padding:15px; border:#ccc 1px solid;
-font-family:"consolas";
-font-size:16px;}
