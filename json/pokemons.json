@@ -1,10 +1,7 @@
 {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
-  "members" : [
+  "colection" : "Pokémons",
+  "year" : 2023,
+  "generation 1" : [
     {
       "name" : "Molecule Man",
       "age" : 29,
