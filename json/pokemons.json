@@ -3,9 +3,9 @@
   "generation" : 1,
   "pokemons" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Bulbasaur",
+      "type1" : "Grass",
+      "type2" : "Poison",
       "powers" : [
         "Radiation resistance",
         "Turning tiny",
@@ -13,9 +13,9 @@
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "name" : "Charizard",
+      "type1" : "Fire",
+      "type2" : "Flying",
       "powers" : [
         "Million tonne punch",
         "Damage resistance",
@@ -23,9 +23,9 @@
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Butterfree",
+      "type1" : "Bug",
+      "type2" : "Flying",
       "powers" : [
         "Immortality",
         "Heat Immunity",
