@@ -4,6 +4,7 @@
   "pokemons" : [
     {
       "name" : "Bulbasaur",
+      "img" : "bulbasaur.png",
       "type1" : "Grass",
       "type2" : "Poison",
       "powers" : [
@@ -14,6 +15,7 @@
     },
     {
       "name" : "Charizard",
+      "img" : "charizard.png",
       "type1" : "Fire",
       "type2" : "Flying",
       "powers" : [
@@ -24,6 +26,7 @@
     },
     {
       "name" : "Butterfree",
+      "img" : "butterfree.png",
       "type1" : "Bug",
       "type2" : "Flying",
       "powers" : [
