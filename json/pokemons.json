@@ -3,7 +3,7 @@
   "generation" : 1,
   "pokemons" : [
     {
-      "pokemon_id" : "1",
+      "pokemon_id" : 1,
       "name" : "Bulbasaur",
       "img" : "bulbasaur.png",
       "type1" : "Grass",
