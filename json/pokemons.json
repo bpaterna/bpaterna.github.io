@@ -3,6 +3,7 @@
   "generation" : 1,
   "pokemons" : [
     {
+      "id" : 1,
       "name" : "Bulbasaur",
       "img" : "bulbasaur.png",
       "type1" : "Grass",
@@ -14,6 +15,7 @@
       ]
     },
     {
+      "id" : 2,
       "name" : "Charizard",
       "img" : "charizard.png",
       "type1" : "Fire",
@@ -25,6 +27,7 @@
       ]
     },
     {
+      "id" : 3,
       "name" : "Butterfree",
       "img" : "butterfree.png",
       "type1" : "Bug",
